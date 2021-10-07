@@ -65,7 +65,9 @@ body .cards-wrapper .card .d-flex {
 }
 
 body .cards-wrapper .card .image {
-  width: 30px;
+  margin-left: 100px;
+  width: 80px;
+  margin-top: 20px;
 }
 
 body .cards-wrapper .card .image img {
